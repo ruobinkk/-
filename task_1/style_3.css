@@ -1,0 +1,82 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: Microsoft YaHei;
+}
+ .resume_head{
+ 	width: 1000PX;
+ 	height: 50PX;
+ 	background: #AAAAAA;
+ 
+}
+.resume_body{
+	
+}
+h1{	
+	/*display: inline-block;*/
+	margin: 0px 0 0px 0px;
+	font-size:20px;
+	margin-top: 50PX;
+	color:white;
+
+}
+h1,h2{
+	font-family: SimHei;
+	font-weight: bold;
+}
+h2{
+/*	height: 100px;
+	width: 100px;
+	background-color: #BBBBBB;
+	float: left;*/
+	font-size:15px;
+	line-height: 60px
+}
+li{
+	list-style: none;
+	display: inline;
+	font-size:16px;
+	padding-right: 30px;
+	margin-top: 20px:;
+}
+ul{
+	margin-top: 20px;
+	float: left;
+
+}
+span{
+	padding-right: 8px;
+	font-weight: bold;
+	font-size:20px;
+}
+h3{
+	font-size:16px;
+	line-height: 15PX
+	margin-bottom:30px;
+}
+p{
+	font-size: 16PX;
+	font-weight: normal;
+
+}
+.resume_body_title{
+	height: 100px;
+	width: 100px;
+	background-color: #BBBBBB;
+	float: left;
+	margin:0 15px 1px 0;
+
+}
+.clear{
+	clear: both;
+}
+.resume_body_main{
+	border-top: #BBBBBB solid 1px;
+	height: 99px;
+	width: 999px;
+	border-right: #BBBBBB solid 1px;
+
+}
+.line{
+	border-bottom: #BBBBBB solid 1px;
+}

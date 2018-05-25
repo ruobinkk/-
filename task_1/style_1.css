@@ -1,0 +1,51 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: Microsoft YaHei;
+}
+h1{
+	font-size:40px;
+}
+h1,h2{
+	font-family: SimHei;
+	font-weight: bold;
+}
+h2{
+	
+	font-size:25px;
+	line-height: 60px
+}
+li{
+	list-style: none;
+	display: inline;
+	font-size:16px;
+	padding-right: 30px;
+}
+ul{
+	margin-top: -20px;
+}
+span{
+	padding-right: 8px;
+	font-weight: bold;
+	font-size:20px;
+}
+h3{
+	font-size:20px;
+	line-height: 30PX
+
+}
+p{
+	font-size: 18PX;
+	font-weight: normal;
+
+}
+
+
+
+
+
+
+
+
+
+
